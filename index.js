@@ -8,6 +8,6 @@ app.get("/", (req, res) => {
     });
 });
 
-app.listen(8080, () => {
+app.listen(3030, () => {
     console.log('Server is working on port 8080');
 })
